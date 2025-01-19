@@ -43,5 +43,5 @@ HardWare :
 5. Servo Motor.
 6. IR Sensor.
 
-Software :
-1. Visual Studio software programing language C++
+
+
