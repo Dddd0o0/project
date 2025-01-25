@@ -12,10 +12,10 @@ Main objectives of the Parking systems :
 
 Main Features :
 
-1. Distance Measurement Between the Car and the Obstacle.
+1. Counting Available Parking Spaces
 
 
-2. Automatically Lifting the Barrier When the Car Approaches.
+2. Automatically Closing the Gate When Parking is Full.
 
 Sub Features :
 
