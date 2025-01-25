@@ -14,9 +14,8 @@ Main Features :
 
 1. Distance Measurement Between the Car and the Obstacle.
 
-2. Alerting the Driver When Approaching the Obstacle Too Closely.
 
-3. Automatically Lifting the Barrier When the Car Approaches.
+2. Automatically Lifting the Barrier When the Car Approaches.
 
 Sub Features :
 
